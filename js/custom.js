@@ -43,7 +43,13 @@ function bannerSlider () {
 		        { src: "img/slides/slide1.jpg" },
 		        { src: "img/slides/slide2.jpg" },
 		        { src: "img/slides/slide3.jpg" },
-		        { src: "img/slides/slide4.jpg" }
+		        { src: "img/slides/slide4.jpg" },
+				{ src: "img/slides/slide5.jpg" },
+				{ src: "img/slides/slide6.jpg" },
+				{ src: "img/slides/slide7.jpg" },
+				{ src: "img/slides/slide8.jpg" },
+				{ src: "img/slides/slide9.jpg" },
+				{ src: "img/slides/slide10.jpg" }
 		    ]
 		});
 	};
